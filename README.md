@@ -2,6 +2,8 @@
 
 This project provisions a Global HTTP Load Balancer with a managed instance group backend.
 
+![Diagrama de Arquitectura](assets/arquitectura-gcp.png)
+
 ## Resources Created
 
 1.  **Instance Template**: Defines VM config with Apache and startup script.
